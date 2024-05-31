@@ -1,4 +1,4 @@
-function fibonacciSequence(number) {
+function fibonacciSequence(number:number) {
   const firstTwoNumbers = [0, 1];
 
   for (let i = 2; i <= number; i++) {

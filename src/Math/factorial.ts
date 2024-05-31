@@ -1,4 +1,4 @@
-function fibonacciSequence(number) {
+function fibonacciSequence(number : number) {
   let factorialOfN = 1;
 
   if (number <= 0) {

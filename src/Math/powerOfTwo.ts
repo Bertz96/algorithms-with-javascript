@@ -1,4 +1,4 @@
-function powerOfTwo(num) {
+function powerOfTwo(num: number) {
   if (num <= 0) {
     return false;
   }
